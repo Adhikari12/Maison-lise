@@ -3,8 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <title>Maison Élise | European-Inspired Home Decor & Comfort Picks</title>
-  <meta name="description" content="European-inspired Amazon home decor, bedding, curtains, pillows and comfort essentials curated for beautiful homes." />
+
+  <meta
+    name="description"
+    content="Maison Élise is a European-inspired Amazon affiliate website for home decor, furniture, bedding, lighting, wallpapers, curtains, spiritual decor, and comfort essentials." />
+
   <link rel="stylesheet" href="styles.css" />
 </head>
 
@@ -31,8 +36,9 @@
           <p class="eyebrow">Soft living, beautifully curated</p>
           <h2>Turn your home into a calm European-inspired retreat.</h2>
           <p>
-            Discover elegant bedding, plush pillows, airy curtains, soft textures,
-            and timeless decor pieces that make every corner feel romantic and refined.
+            Discover beds, mattresses, bedding, lamps, wallpapers, furniture, sofas, curtains,
+            vases, spiritual decor, kitchen styling, bathroom accents, and everything needed
+            to make your home beautiful from scratch.
           </p>
 
           <div class="hero-actions">
@@ -44,10 +50,10 @@
         <div class="hero-card">
           <div class="hero-card-inner">
             <p class="badge">Maison Edit</p>
-            <h3>The Parisian bedroom refresh</h3>
+            <h3>The complete home glow-up</h3>
             <p>
-              Linen-look curtains, cloud-soft bedsheets, plush pillow covers,
-              and delicate decor accents.
+              From furniture and bedding to lighting, wall decor, idols, vases, rugs,
+              and organizers — curated for a soft luxury home.
             </p>
           </div>
         </div>
@@ -58,31 +64,23 @@
       <div class="container">
         <div class="section-heading">
           <p class="eyebrow">Curated collections</p>
-          <h2>Shop by aesthetic room essentials</h2>
+          <h2>Shop by category, then refine by style</h2>
         </div>
 
- <div class="filter-buttons">
-  <button onclick="filterProducts('All')">All</button>
-  <button onclick="filterProducts('Furniture')">Furniture</button>
-  <button onclick="filterProducts('Bedding')">Bedding</button>
-  <button onclick="filterProducts('Lighting')">Lighting</button>
-  <button onclick="filterProducts('Wall Decor')">Wall Decor</button>
-  <button onclick="filterProducts('Curtains & Rugs')">Curtains & Rugs</button>
-  <button onclick="filterProducts('Table Decor')">Table Decor</button>
-  <button onclick="filterProducts('Spiritual Decor')">Spiritual Decor</button>
-  <button onclick="filterProducts('Storage & Organizers')">Storage & Organizers</button>
-  <button onclick="filterProducts('Kitchen Decor')">Kitchen Decor</button>
-  <button onclick="filterProducts('Bathroom Decor')">Bathroom Decor</button>
-  <button onclick="filterProducts('Outdoor Decor')">Outdoor Decor</button>
-</div>
+        <div id="categoryButtons" class="filter-buttons"></div>
+
+        <div id="subcategoryArea" class="subcategory-area">
+          <p class="eyebrow">Subcategories</p>
+          <div id="subcategoryButtons" class="filter-buttons subcategory-buttons"></div>
+        </div>
       </div>
     </section>
 
     <section id="featured" class="featured">
       <div class="container">
         <div class="section-heading">
-          <p class="eyebrow">Featured favourites</p>
-          <h2>Amazon finds curated for soft luxury homes</h2>
+          <p class="eyebrow" id="activeLabel">Featured favourites</p>
+          <h2 id="productHeading">Amazon finds curated for soft luxury homes</h2>
         </div>
 
         <div id="productGrid" class="product-grid"></div>
@@ -99,7 +97,12 @@
         <div class="why-list">
           <div>
             <h3>Quiet luxury palette</h3>
-            <p>Warm neutrals, soft textures, and elegant European-inspired details.</p>
+            <p>Warm neutrals, soft textures, muted tones, and elegant European-inspired details.</p>
+          </div>
+
+          <div>
+            <h3>Complete home curation</h3>
+            <p>From beds and sofas to lamps, wallpapers, idols, vases, rugs, and organizers.</p>
           </div>
 
           <div>
@@ -115,7 +118,7 @@
     <div class="container footer-row">
       <div>
         <p class="eyebrow">Maison Élise</p>
-        <p>Curating European-inspired decor and comfort essentials.</p>
+        <p>Curating European-inspired decor and comfort essentials for beautiful everyday living.</p>
       </div>
 
       <p>Amazon affiliate disclosure: We may earn from qualifying purchases.</p>
