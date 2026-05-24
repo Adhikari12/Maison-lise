@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Cloud-Soft Cotton Bedsheet Set",
+    "category": "Bedding",
+    "description": "Elegant breathable bedsheets for a calm European bedroom look.",
+    "image": "https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80",
+    "link": "https://www.amazon.in/s?k=cotton+bedsheet+set"
+  },
+  {
+    "name": "Light Filtering Linen Curtains",
+    "category": "Curtains",
+    "description": "Soft curtains that create a romantic Parisian apartment feeling.",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80",
+    "link": "https://www.amazon.in/s?k=linen+curtains"
+  },
+  {
+    "name": "Textured Decorative Pillow Covers",
+    "category": "Pillows",
+    "description": "Neutral pillow covers for layered, cozy, Pinterest-worthy interiors.",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=80",
+    "link": "https://www.amazon.in/s?k=decorative+pillow+covers"
+  },
+  {
+    "name": "Minimal Ceramic Decor Vase",
+    "category": "Decor",
+    "description": "Aesthetic decor accent for shelves, bedside tables, and coffee tables.",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80",
+    "link": "https://www.amazon.in/s?k=ceramic+decor+vase"
+  }
+]
