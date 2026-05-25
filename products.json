@@ -3,7 +3,7 @@
     "name": "Pastel Bedsheets Collection",
     "category": "Bedding",
     "subcategory": "Pastel Bedsheets",
-    "description": "Soft pastel bedsheet finds for calm, romantic, aesthetic bedrooms.",
+    "description": "Soft pastel bedsheets for calm aesthetic bedrooms.",
     "image": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80",
     "products": [
       {"name":"Pastel Pink Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+pink+bedsheet"},
@@ -12,145 +12,212 @@
       {"name":"Pastel Yellow Bedsheet","image":"https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+yellow+bedsheet"},
       {"name":"Pastel Lavender Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+lavender+bedsheet"},
       {"name":"Pastel Floral Bedsheet","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+floral+bedsheet"},
-      {"name":"Pastel Cotton Double Bedsheet","image":"https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+cotton+double+bedsheet"},
+      {"name":"Pastel Cotton Bedsheet","image":"https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+cotton+bedsheet"},
       {"name":"Pastel King Size Bedsheet","image":"https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+king+size+bedsheet"},
       {"name":"Pastel Printed Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+printed+bedsheet"},
-      {"name":"Pastel Luxury Bedsheet Set","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+luxury+bedsheet+set"}
+      {"name":"Pastel Luxury Bedsheet Set","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pastel+luxury+bedsheet"}
     ]
   },
+
   {
     "name": "Floral Bedsheets Collection",
     "category": "Bedding",
     "subcategory": "Floral Bedsheets",
-    "description": "Fresh floral bedding for feminine, classic and cheerful bedrooms.",
+    "description": "Elegant floral bedding for fresh feminine interiors.",
     "image": "https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80",
     "products": [
       {"name":"Pink Floral Bedsheet","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pink+floral+bedsheet"},
       {"name":"Blue Floral Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=blue+floral+bedsheet"},
       {"name":"Vintage Floral Bedsheet","image":"https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=vintage+floral+bedsheet"},
-      {"name":"Cotton Floral Bedsheet","image":"https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=cotton+floral+bedsheet"},
-      {"name":"King Size Floral Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=king+size+floral+bedsheet"},
-      {"name":"Luxury Floral Bedsheet","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+floral+bedsheet"},
-      {"name":"White Floral Bedsheet","image":"https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=white+floral+bedsheet"},
       {"name":"Botanical Bedsheet","image":"https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=botanical+bedsheet"},
       {"name":"Rose Print Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=rose+print+bedsheet"},
-      {"name":"Floral Bedsheet With Pillow Covers","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=floral+bedsheet+with+pillow+covers"}
+      {"name":"Luxury Floral Bedsheet","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+floral+bedsheet"},
+      {"name":"White Floral Bedsheet","image":"https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=white+floral+bedsheet"},
+      {"name":"Cotton Floral Bedsheet","image":"https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=cotton+floral+bedsheet"},
+      {"name":"King Size Floral Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=king+size+floral+bedsheet"},
+      {"name":"Floral Bedsheet Set","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=floral+bedsheet+set"}
     ]
   },
+
   {
-    "name": "Classic Indian Print Bedsheets Collection",
+    "name": "Dark Coloured Bedsheets Collection",
+    "category": "Bedding",
+    "subcategory": "Dark Coloured Bedsheets",
+    "description": "Dark elegant bedding for bold and luxurious bedrooms.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      {"name":"Black Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=black+bedsheet"},
+      {"name":"Dark Grey Bedsheet","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=dark+grey+bedsheet"},
+      {"name":"Navy Blue Bedsheet","image":"https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=navy+blue+bedsheet"},
+      {"name":"Dark Green Bedsheet","image":"https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=dark+green+bedsheet"},
+      {"name":"Maroon Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=maroon+bedsheet"},
+      {"name":"Charcoal Bedsheet","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=charcoal+bedsheet"},
+      {"name":"Dark Printed Bedsheet","image":"https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=dark+printed+bedsheet"},
+      {"name":"Luxury Black Bedsheet","image":"https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+black+bedsheet"},
+      {"name":"Dark Cotton Bedsheet","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=dark+cotton+bedsheet"},
+      {"name":"Dark King Size Bedsheet","image":"https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=dark+king+size+bedsheet"}
+    ]
+  },
+
+  {
+    "name": "Classic Indian Prints Collection",
     "category": "Bedding",
     "subcategory": "Classic Indian Prints",
-    "description": "Jaipuri, block print, ethnic and traditional Indian bedsheet styles.",
+    "description": "Traditional Jaipuri and Indian ethnic print bedding.",
     "image": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80",
     "products": [
       {"name":"Jaipuri Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=jaipuri+bedsheet"},
       {"name":"Block Print Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=block+print+bedsheet"},
-      {"name":"Rajasthani Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=rajasthani+bedsheet"},
-      {"name":"Ethnic Cotton Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=ethnic+cotton+bedsheet"},
       {"name":"Mandala Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=mandala+bedsheet"},
+      {"name":"Rajasthani Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=rajasthani+bedsheet"},
       {"name":"Paisley Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=paisley+bedsheet"},
-      {"name":"Traditional Printed Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=traditional+printed+bedsheet"},
-      {"name":"Indian King Size Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=indian+king+size+bedsheet"},
+      {"name":"Traditional Cotton Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=traditional+cotton+bedsheet"},
+      {"name":"Indian Ethnic Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=indian+ethnic+bedsheet"},
       {"name":"Hand Block Print Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=hand+block+print+bedsheet"},
-      {"name":"Indian Print Double Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=indian+print+double+bedsheet"}
+      {"name":"Indian Print Double Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=indian+print+double+bedsheet"},
+      {"name":"Traditional King Size Bedsheet","image":"https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=traditional+king+size+bedsheet"}
     ]
   },
+
   {
     "name": "Curtains Collection",
     "category": "Curtains & Rugs",
     "subcategory": "Curtains",
-    "description": "Sheer, blackout, linen-look and elegant curtains for every room.",
+    "description": "Elegant curtains for every room and aesthetic.",
     "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80",
     "products": [
       {"name":"Sheer Curtains","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=sheer+curtains"},
       {"name":"Blackout Curtains","image":"https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=blackout+curtains"},
       {"name":"Linen Curtains","image":"https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=linen+curtains"},
-      {"name":"Door Curtains","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=door+curtains"},
-      {"name":"Bedroom Curtains","image":"https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=bedroom+curtains"},
-      {"name":"Living Room Curtains","image":"https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=living+room+curtains"},
-      {"name":"Printed Curtains","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=printed+curtains"},
       {"name":"Velvet Curtains","image":"https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=velvet+curtains"},
+      {"name":"Bedroom Curtains","image":"https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=bedroom+curtains"},
+      {"name":"Living Room Curtains","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=living+room+curtains"},
+      {"name":"Door Curtains","image":"https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=door+curtains"},
       {"name":"Neutral Curtains","image":"https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=neutral+curtains"},
-      {"name":"Luxury Curtain Set","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+curtain+set"}
+      {"name":"Printed Curtains","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=printed+curtains"},
+      {"name":"Luxury Curtain Set","image":"https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+curtain+set"}
     ]
   },
+
+  [
   {
-  "name": "Furniture Collection",
-  "category": "Furniture",
-  "subcategory": "Furniture Essentials",
-  "description": "Beds, sofas, tables and statement furniture pieces.",
-  "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80",
-  "products": [
-    {"name":"Luxury Sofa Set","image":"https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+sofa+set"},
-    {"name":"Upholstered Bed","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=upholstered+bed"},
-    {"name":"Coffee Table","image":"https://images.unsplash.com/photo-1532372320572-cda25653a694?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=coffee+table"},
-    {"name":"Side Table","image":"https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=side+table"},
-    {"name":"Accent Chair","image":"https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=accent+chair"},
-    {"name":"Bookshelf","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=bookshelf"},
-    {"name":"TV Unit","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=tv+unit"},
-    {"name":"Dining Table Set","image":"https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=dining+table+set"},
-    {"name":"Shoe Rack","image":"https://images.unsplash.com/photo-1620328070734-d1b1fd83592b?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=shoe+rack"},
-    {"name":"Wardrobe Cabinet","image":"https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wardrobe+cabinet"}
-  ]
-},
+    "name": "Furniture Collection",
+    "category": "Furniture",
+    "subcategory": "Furniture Essentials",
+    "description": "Beds, sofas, tables and statement furniture pieces.",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      {"name":"Luxury Sofa Set","image":"https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+sofa+set"},
+      {"name":"Coffee Table","image":"https://images.unsplash.com/photo-1532372320572-cda25653a694?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=coffee+table"},
+      {"name":"Accent Chair","image":"https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=accent+chair"},
+      {"name":"Bookshelf","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=bookshelf"},
+      {"name":"TV Unit","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=tv+unit"},
+      {"name":"Dining Table Set","image":"https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=dining+table+set"},
+      {"name":"Wardrobe Cabinet","image":"https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wardrobe+cabinet"},
+      {"name":"Console Table","image":"https://images.unsplash.com/photo-1532372320572-cda25653a694?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=console+table"},
+      {"name":"Minimal Side Table","image":"https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=minimal+side+table"},
+      {"name":"Wooden Bed Frame","image":"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wooden+bed+frame"}
+    ]
+  },
 
-{
-  "name": "Lighting Collection",
-  "category": "Lighting",
-  "subcategory": "Lamps & Lights",
-  "description": "Warm ambient lighting for cozy interiors.",
-  "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80",
-  "products": [
-    {"name":"Table Lamp","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=table+lamp"},
-    {"name":"Floor Lamp","image":"https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=floor+lamp"},
-    {"name":"Fairy Lights","image":"https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=fairy+lights"},
-    {"name":"Wall Lights","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wall+lights"},
-    {"name":"Chandelier","image":"https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=chandelier"},
-    {"name":"Pendant Light","image":"https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pendant+light"},
-    {"name":"LED Strip Lights","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=led+strip+lights"},
-    {"name":"Bedside Lamp","image":"https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=bedside+lamp"},
-    {"name":"Ceiling Light","image":"https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=ceiling+light"},
-    {"name":"Decorative Lantern","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=decorative+lantern"}
-  ]
-},
+  {
+    "name": "Lighting Collection",
+    "category": "Lighting",
+    "subcategory": "Lamps & Lights",
+    "description": "Warm ambient lighting for aesthetic interiors.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      {"name":"Table Lamp","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=table+lamp"},
+      {"name":"Floor Lamp","image":"https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=floor+lamp"},
+      {"name":"Fairy Lights","image":"https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=fairy+lights"},
+      {"name":"Wall Lights","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wall+lights"},
+      {"name":"Chandelier","image":"https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=chandelier"},
+      {"name":"Pendant Light","image":"https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pendant+light"},
+      {"name":"LED Strip Lights","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=led+strip+lights"},
+      {"name":"Bedside Lamp","image":"https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=bedside+lamp"},
+      {"name":"Ceiling Light","image":"https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=ceiling+light"},
+      {"name":"Decorative Lantern","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=decorative+lantern"}
+    ]
+  },
 
-{
-  "name": "Wall Decor Collection",
-  "category": "Wall Decor",
-  "subcategory": "Wall Decor Essentials",
-  "description": "Wallpapers, mirrors, clocks and wall accents.",
-  "image": "https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80",
-  "products": [
-    {"name":"Peel & Stick Wallpaper","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=peel+and+stick+wallpaper"},
-    {"name":"Decorative Mirror","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=decorative+mirror"},
-    {"name":"Wall Art Frames","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wall+art+frames"},
-    {"name":"Wall Clock","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wall+clock"},
-    {"name":"Floating Shelves","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=floating+shelves"},
-    {"name":"Canvas Painting","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=canvas+painting"},
-    {"name":"Photo Frames","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=photo+frames"},
-    {"name":"Macrame Wall Hanging","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=macrame+wall+hanging"},
-    {"name":"Wooden Wall Panel","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wooden+wall+panel"},
-    {"name":"Luxury Wall Decor","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+wall+decor"}
-  ]
-},
+  {
+    "name": "Wall Decor Collection",
+    "category": "Wall Decor",
+    "subcategory": "Wall Decor Essentials",
+    "description": "Wallpapers, mirrors and elegant wall styling.",
+    "image": "https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      {"name":"Peel & Stick Wallpaper","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=peel+and+stick+wallpaper"},
+      {"name":"Decorative Mirror","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=decorative+mirror"},
+      {"name":"Wall Art Frames","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wall+art+frames"},
+      {"name":"Wall Clock","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wall+clock"},
+      {"name":"Floating Shelves","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=floating+shelves"},
+      {"name":"Canvas Painting","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=canvas+painting"},
+      {"name":"Photo Frames","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=photo+frames"},
+      {"name":"Macrame Wall Hanging","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=macrame+wall+hanging"},
+      {"name":"Wooden Wall Panel","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=wooden+wall+panel"},
+      {"name":"Luxury Wall Decor","image":"https://images.unsplash.com/photo-1615529162924-f8605388461d?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+wall+decor"}
+    ]
+  },
 
-{
-  "name": "Table Decor Collection",
-  "category": "Table Decor",
-  "subcategory": "Tabletop Styling",
-  "description": "Vases, candles and elegant tabletop accents.",
-  "image": "https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80",
-  "products": [
-    {"name":"Ceramic Vase","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=ceramic+vase"},
-    {"name":"Luxury Candles","image":"https://images.unsplash.com/photo-1602872029708-84d970d3389a?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+candles"},
-    {"name":"Decorative Tray","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=decorative+tray"},
-    {"name":"Artificial Flowers","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=artificial+flowers"},
-    {"name":"Coffee Table Books","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=coffee+table+books"},
-    {"name":"Glass Vase","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=glass+vase"},
-    {"name":"Minimal Sculpture","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=minimal+sculpture"},
-    {"name":"Marble Tray","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=marble+tray"},
-    {"name":"Decor Bowl","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=decor+bowl"},
-    {"name":"Luxury Centerpiece","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+centerpiece"}
-  ]
-}
+  {
+    "name": "Curtains & Rugs Collection",
+    "category": "Curtains & Rugs",
+    "subcategory": "Curtains & Rugs",
+    "description": "Curtains, rugs and soft furnishings for cozy interiors.",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      {"name":"Sheer Curtains","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=sheer+curtains"},
+      {"name":"Blackout Curtains","image":"https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=blackout+curtains"},
+      {"name":"Linen Curtains","image":"https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=linen+curtains"},
+      {"name":"Area Rug","image":"https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=area+rug"},
+      {"name":"Persian Rug","image":"https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=persian+rug"},
+      {"name":"Minimal Rug","image":"https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=minimal+rug"},
+      {"name":"Bedroom Curtains","image":"https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=bedroom+curtains"},
+      {"name":"Living Room Curtains","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=living+room+curtains"},
+      {"name":"Luxury Curtain Set","image":"https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+curtain+set"},
+      {"name":"Printed Rug","image":"https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=printed+rug"}
+    ]
+  },
+
+  {
+    "name": "Table Decor Collection",
+    "category": "Table Decor",
+    "subcategory": "Tabletop Styling",
+    "description": "Vases, candles and elegant tabletop accents.",
+    "image": "https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      {"name":"Ceramic Vase","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=ceramic+vase"},
+      {"name":"Luxury Candles","image":"https://images.unsplash.com/photo-1602872029708-84d970d3389a?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+candles"},
+      {"name":"Decorative Tray","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=decorative+tray"},
+      {"name":"Artificial Flowers","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=artificial+flowers"},
+      {"name":"Coffee Table Books","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=coffee+table+books"},
+      {"name":"Glass Vase","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=glass+vase"},
+      {"name":"Minimal Sculpture","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=minimal+sculpture"},
+      {"name":"Marble Tray","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=marble+tray"},
+      {"name":"Decor Bowl","image":"https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=decor+bowl"},
+      {"name":"Luxury Centerpiece","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=luxury+centerpiece"}
+    ]
+  },
+
+  {
+    "name": "Spiritual Decor Collection",
+    "category": "Spiritual Decor",
+    "subcategory": "Pooja & Sacred Decor",
+    "description": "Elegant spiritual decor and sacred accents.",
+    "image": "https://images.unsplash.com/photo-1601212660297-70f8e0a728dd?auto=format&fit=crop&w=900&q=80",
+    "products": [
+      {"name":"Krishna Idol","image":"https://images.unsplash.com/photo-1601212660297-70f8e0a728dd?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=krishna+idol"},
+      {"name":"Ganesha Idol","image":"https://images.unsplash.com/photo-1607082349566-187342175e2f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=ganesha+idol"},
+      {"name":"Brass Diya","image":"https://images.unsplash.com/photo-1607082349566-187342175e2f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=brass+diya"},
+      {"name":"Pooja Thali","image":"https://images.unsplash.com/photo-1601212660297-70f8e0a728dd?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pooja+thali"},
+      {"name":"Temple Bells","image":"https://images.unsplash.com/photo-1607082349566-187342175e2f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=temple+bells"},
+      {"name":"Incense Holder","image":"https://images.unsplash.com/photo-1601212660297-70f8e0a728dd?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=incense+holder"},
+      {"name":"Pooja Mandir","image":"https://images.unsplash.com/photo-1607082349566-187342175e2f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=pooja+mandir"},
+      {"name":"Spiritual Wall Art","image":"https://images.unsplash.com/photo-1601212660297-70f8e0a728dd?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=spiritual+wall+art"},
+      {"name":"Agarbatti Stand","image":"https://images.unsplash.com/photo-1607082349566-187342175e2f?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=agarbatti+stand"},
+      {"name":"Sacred Decor Set","image":"https://images.unsplash.com/photo-1601212660297-70f8e0a728dd?auto=format&fit=crop&w=900&q=80","link":"https://www.amazon.in/s?k=sacred+decor+set"}
+    ]
+  }
+]
+]
