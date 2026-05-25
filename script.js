@@ -1,7 +1,7 @@
 let allProducts = [];
 let selectedCategory = null;
 let selectedSubcategory = "All";
-let selectedVibe = "All";
+window.currentVisibleCollections = [];
 
 const fallbackImage =
   "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=80";
@@ -27,9 +27,7 @@ function renderCategoryButtons() {
   categoryBox.innerHTML = categories
     .map(
       (category) => `
-      <button 
-        class="${selectedCategory === category ? "active" : ""}" 
-        onclick="selectCategory('${category}')">
+      <button class="${selectedCategory === category ? "active" : ""}" onclick="selectCategory('${category}')">
         ${category}
       </button>
     `
@@ -40,17 +38,14 @@ function renderCategoryButtons() {
 function selectCategory(category) {
   selectedCategory = category;
   selectedSubcategory = "All";
-  selectedVibe = "All";
-
   renderCategoryButtons();
-  renderInsideCategoryFilters();
+  renderSubcategoryButtons();
   updateProducts();
   scrollToProducts();
 }
 
-function renderInsideCategoryFilters() {
-  const subcategoryBox = document.getElementById("subcategoryButtons");
-  const vibeBox = document.getElementById("vibeButtons");
+function renderSubcategoryButtons() {
+  const box = document.getElementById("subcategoryButtons");
 
   const productsInCategory = allProducts.filter(
     (product) => product.category === selectedCategory
@@ -61,30 +56,11 @@ function renderInsideCategoryFilters() {
     ...new Set(productsInCategory.map((product) => product.subcategory)),
   ];
 
-  const vibes = [
-    "All",
-    ...new Set(productsInCategory.map((product) => product.vibe)),
-  ];
-
-  subcategoryBox.innerHTML = subcategories
+  box.innerHTML = subcategories
     .map(
       (sub) => `
-      <button 
-        class="${selectedSubcategory === sub ? "active" : ""}" 
-        onclick="selectSubcategory('${sub}')">
+      <button class="${selectedSubcategory === sub ? "active" : ""}" onclick="selectSubcategory('${sub}')">
         ${sub === "All" ? "All Collections" : sub}
-      </button>
-    `
-    )
-    .join("");
-
-  vibeBox.innerHTML = vibes
-    .map(
-      (vibe) => `
-      <button 
-        class="${selectedVibe === vibe ? "active" : ""}" 
-        onclick="selectVibe('${vibe}')">
-        ${vibe === "All" ? "All Vibes" : vibe}
       </button>
     `
     )
@@ -93,107 +69,72 @@ function renderInsideCategoryFilters() {
 
 function selectSubcategory(subcategory) {
   selectedSubcategory = subcategory;
-  renderInsideCategoryFilters();
-  updateProducts();
-  scrollToProducts();
-}
-
-function selectVibe(vibe) {
-  selectedVibe = vibe;
-  renderInsideCategoryFilters();
+  renderSubcategoryButtons();
   updateProducts();
   scrollToProducts();
 }
 
 function updateProducts() {
-  let filteredProducts = allProducts.filter(
+  let filtered = allProducts.filter(
     (product) => product.category === selectedCategory
   );
 
   if (selectedSubcategory !== "All") {
-    filteredProducts = filteredProducts.filter(
+    filtered = filtered.filter(
       (product) => product.subcategory === selectedSubcategory
     );
   }
 
-  if (selectedVibe !== "All") {
-    filteredProducts = filteredProducts.filter(
-      (product) => product.vibe === selectedVibe
-    );
-  }
+  document.getElementById("productHeading").textContent =
+    `${selectedCategory} Collections`;
 
-  updateHeading();
-  updateActiveFilters();
-  displayCollections(filteredProducts);
-}
-
-function updateHeading() {
-  const heading = document.getElementById("productHeading");
-
-  if (!selectedCategory) {
-    heading.textContent = "Select a category to begin";
-    return;
-  }
-
-  heading.textContent = `${selectedCategory} Collections`;
-}
-
-function updateActiveFilters() {
-  const activeFilters = document.getElementById("activeFilters");
-
-  if (!selectedCategory) {
-    activeFilters.innerHTML = "";
-    return;
-  }
-
-  activeFilters.innerHTML = `
+  document.getElementById("activeFilters").innerHTML = `
     <span>Category: ${selectedCategory}</span>
     <span>Collection: ${selectedSubcategory}</span>
-    <span>Vibe: ${selectedVibe}</span>
     <button onclick="clearCategoryFilters()">Clear Filters</button>
   `;
+
+  displayCollections(filtered);
 }
 
 function clearCategoryFilters() {
   selectedSubcategory = "All";
-  selectedVibe = "All";
-
-  renderInsideCategoryFilters();
+  renderSubcategoryButtons();
   updateProducts();
 }
 
 function showStartMessage() {
-  document.getElementById("insideCategoryFilters").style.display = "none";
   document.getElementById("activeFilters").innerHTML = "";
+  document.getElementById("subcategoryButtons").innerHTML = "";
   document.getElementById("productGrid").innerHTML = `
     <div class="empty-state">
       <h3>Choose a category above</h3>
-      <p>After selecting a category, collection and vibe filters will appear here.</p>
+      <p>After selecting a category, its collections will appear here.</p>
     </div>
   `;
 }
 
 function displayCollections(collections) {
-  document.getElementById("insideCategoryFilters").style.display = "grid";
-
   const productGrid = document.getElementById("productGrid");
 
   if (!collections.length) {
     productGrid.innerHTML = `
       <div class="empty-state">
         <h3>No matching collections found</h3>
-        <p>Try changing the collection type or vibe filter.</p>
+        <p>Try another collection type.</p>
       </div>
     `;
     return;
   }
+
+  window.currentVisibleCollections = collections;
 
   productGrid.innerHTML = collections
     .map(
       (collection, index) => `
       <article class="product-card">
         <img 
-          src="${collection.image && collection.image.trim() !== "" ? collection.image : fallbackImage}" 
+          src="${collection.image || fallbackImage}" 
           alt="${collection.name}" 
           class="product-image"
           loading="lazy"
@@ -204,11 +145,8 @@ function displayCollections(collections) {
           <p class="category">Maison Élise • ${collection.subcategory}</p>
           <h3>${collection.name}</h3>
           <p>${collection.description}</p>
-          <span class="vibe-tag">${collection.vibe}</span>
 
-          <button 
-            class="link-btn"
-            onclick="openCollection(${index})">
+          <button class="link-btn" onclick="openCollection(${index})">
             View Collection
           </button>
         </div>
@@ -216,8 +154,6 @@ function displayCollections(collections) {
     `
     )
     .join("");
-
-  window.currentVisibleCollections = collections;
 }
 
 function openCollection(index) {
@@ -229,7 +165,7 @@ function openCollection(index) {
   productGrid.innerHTML = `
     <div class="collection-detail">
       <button class="back-btn" onclick="updateProducts()">← Back to ${selectedCategory}</button>
-      <p class="eyebrow">${collection.category} • ${collection.vibe}</p>
+      <p class="eyebrow">${collection.category} • ${collection.subcategory}</p>
       <h2>${collection.name}</h2>
       <p>${collection.description}</p>
     </div>
@@ -239,7 +175,7 @@ function openCollection(index) {
         (item) => `
         <article class="product-card">
           <img 
-            src="${item.image && item.image.trim() !== "" ? item.image : fallbackImage}" 
+            src="${item.image || fallbackImage}" 
             alt="${item.name}" 
             class="product-image"
             loading="lazy"
@@ -268,9 +204,7 @@ function openCollection(index) {
 }
 
 function scrollToProducts() {
-  document.getElementById("featured").scrollIntoView({
-    behavior: "smooth",
-  });
+  document.getElementById("featured").scrollIntoView({ behavior: "smooth" });
 }
 
 loadProducts();
